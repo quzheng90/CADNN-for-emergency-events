@@ -1,0 +1,47 @@
+event,event_type
+boston_bombings,social security incident
+la_airport-shootings,social security incident
+west_texas,social security incident
+middle-east_respiratory-syndrome,public health event
+worldwide_ebola,public health event
+colorado_wildfires,natural haze
+costa-rica_earthquake,natural haze
+guatemala_earthquake,natural haze
+italy_earthquakes,natural haze
+philipinnes_floods,natural haze
+philippines_typhoon-pablo,natural haze
+sandy_hurricane,natural haze
+alberta_floods,natural haze
+australia_bushfire,natural haze
+bohol_earthquake,natural haze
+colorado_floods,natural haze
+italy_sardinia,natural haze
+manila_floods,natural haze
+oklahoma_tornado,natural haze
+phillipines_typhoon-yolanda,natural haze
+queensland_floods,natural haze
+singapore_haze,natural haze
+pakistan_earthquake,natural haze
+california_earthquake,natural haze
+chile_earthquake,natural haze
+chile_earthquake_esp,natural haze
+iceland_volcano,natural haze
+india_floods,natural haze
+mexico_hurricane-odile,natural haze
+pakistan_floods,natural haze
+philippines_typhoon,natural haze
+philippines_typhoon-hagupit,natural haze
+worldwide_landslides,natural haze
+nepal_earthquake,natural haze
+vanuatu_cyclone,natural haze
+vanuatu_cyclone-pam,natural haze
+venezuela_refinery-explosion,accident
+bangladesh_savar-building-collapse,accident
+brazil_nightclub-fire,accident
+canada_lac-megantic-train-crash,accident
+glasgow_helicopter-crash,accident
+ny_train-crash,accident
+russia_meteor_en,accident
+spain_train-crash_en,accident
+west-texas_explosion,accident
+malaysia_airline,accident
